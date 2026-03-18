@@ -1,0 +1,15 @@
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/bin/Debug/net10.0/VBNetConsole
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/bin/Debug/net10.0/VBNetConsole.deps.json
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/bin/Debug/net10.0/VBNetConsole.runtimeconfig.json
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/bin/Debug/net10.0/VBNetConsole.dll
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/bin/Debug/net10.0/VBNetConsole.pdb
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/obj/Debug/net10.0/VBNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/obj/Debug/net10.0/VBNetConsole.AssemblyInfoInputs.cache
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/obj/Debug/net10.0/VBNetConsole.AssemblyInfo.vb
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/obj/Debug/net10.0/VBNetConsole.vbproj.CoreCompileInputs.cache
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/obj/Debug/net10.0/VBNetConsole.sourcelink.json
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/obj/Debug/net10.0/VBNetConsole.dll
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/obj/Debug/net10.0/refint/VBNetConsole.dll
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/obj/Debug/net10.0/VBNetConsole.pdb
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/obj/Debug/net10.0/VBNetConsole.genruntimeconfig.cache
+/Users/sammbavu/source/repos/vbnet/VBNetConsole/obj/Debug/net10.0/ref/VBNetConsole.dll

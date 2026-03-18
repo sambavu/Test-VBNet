@@ -1,0 +1,12 @@
+/Users/sammbavu/source/repos/vbnet/MobileApp/obj/Debug/net10.0/MobileApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sammbavu/source/repos/vbnet/MobileApp/obj/Debug/net10.0/MobileApp.AssemblyInfoInputs.cache
+/Users/sammbavu/source/repos/vbnet/MobileApp/obj/Debug/net10.0/MobileApp.AssemblyInfo.cs
+/Users/sammbavu/source/repos/vbnet/MobileApp/obj/Debug/net10.0/MobileApp.csproj.CoreCompileInputs.cache
+/Users/sammbavu/source/repos/vbnet/MobileApp/obj/Debug/net10.0/MobileApp.sourcelink.json
+/Users/sammbavu/source/repos/vbnet/MobileApp/bin/Debug/net10.0/MobileApp.deps.json
+/Users/sammbavu/source/repos/vbnet/MobileApp/bin/Debug/net10.0/MobileApp.dll
+/Users/sammbavu/source/repos/vbnet/MobileApp/bin/Debug/net10.0/MobileApp.pdb
+/Users/sammbavu/source/repos/vbnet/MobileApp/obj/Debug/net10.0/MobileApp.dll
+/Users/sammbavu/source/repos/vbnet/MobileApp/obj/Debug/net10.0/refint/MobileApp.dll
+/Users/sammbavu/source/repos/vbnet/MobileApp/obj/Debug/net10.0/MobileApp.pdb
+/Users/sammbavu/source/repos/vbnet/MobileApp/obj/Debug/net10.0/ref/MobileApp.dll

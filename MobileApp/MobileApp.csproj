@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <OutputType>Library</OutputType>
+        <RootNamespace>MobileApp</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <!-- Packages pour MAUI (installation optionnelle après workload complet) -->
+        <!-- <PackageReference Include="Microsoft.Maui.Controls" Version="10.0.0" Condition="'$(UseMaui)' == 'true'" /> -->
+    </ItemGroup>
+
+</Project>

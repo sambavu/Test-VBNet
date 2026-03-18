@@ -1,0 +1,15 @@
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/bin/Debug/net10.0-windows/VBNetWinForms
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/bin/Debug/net10.0-windows/VBNetWinForms.deps.json
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/bin/Debug/net10.0-windows/VBNetWinForms.runtimeconfig.json
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/bin/Debug/net10.0-windows/VBNetWinForms.dll
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/bin/Debug/net10.0-windows/VBNetWinForms.pdb
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/obj/Debug/net10.0-windows/VBNetWinForms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/obj/Debug/net10.0-windows/VBNetWinForms.AssemblyInfoInputs.cache
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/obj/Debug/net10.0-windows/VBNetWinForms.AssemblyInfo.vb
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/obj/Debug/net10.0-windows/VBNetWinForms.vbproj.CoreCompileInputs.cache
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/obj/Debug/net10.0-windows/VBNetWinForms.sourcelink.json
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/obj/Debug/net10.0-windows/VBNetWinForms.dll
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/obj/Debug/net10.0-windows/refint/VBNetWinForms.dll
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/obj/Debug/net10.0-windows/VBNetWinForms.pdb
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/obj/Debug/net10.0-windows/VBNetWinForms.genruntimeconfig.cache
+/Users/sammbavu/source/repos/vbnet/VBNetWinForms/obj/Debug/net10.0-windows/ref/VBNetWinForms.dll

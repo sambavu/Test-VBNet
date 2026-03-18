@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MobileApp/MobileApp.csproj" />
+  <Project Path="VBNetConsole/VBNetConsole.vbproj" />
+  <Project Path="VBNetWinForms/VBNetWinForms.vbproj" />
+</Solution>

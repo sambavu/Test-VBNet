@@ -1,0 +1,14 @@
+/Users/sammbavu/source/repos/vbnet/bin/Debug/net8.0/VBNetApp
+/Users/sammbavu/source/repos/vbnet/bin/Debug/net8.0/VBNetApp.deps.json
+/Users/sammbavu/source/repos/vbnet/bin/Debug/net8.0/VBNetApp.runtimeconfig.json
+/Users/sammbavu/source/repos/vbnet/bin/Debug/net8.0/VBNetApp.dll
+/Users/sammbavu/source/repos/vbnet/bin/Debug/net8.0/VBNetApp.pdb
+/Users/sammbavu/source/repos/vbnet/obj/Debug/net8.0/VBNetApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sammbavu/source/repos/vbnet/obj/Debug/net8.0/VBNetApp.AssemblyInfoInputs.cache
+/Users/sammbavu/source/repos/vbnet/obj/Debug/net8.0/VBNetApp.AssemblyInfo.vb
+/Users/sammbavu/source/repos/vbnet/obj/Debug/net8.0/VBNetApp.vbproj.CoreCompileInputs.cache
+/Users/sammbavu/source/repos/vbnet/obj/Debug/net8.0/VBNetApp.dll
+/Users/sammbavu/source/repos/vbnet/obj/Debug/net8.0/refint/VBNetApp.dll
+/Users/sammbavu/source/repos/vbnet/obj/Debug/net8.0/VBNetApp.pdb
+/Users/sammbavu/source/repos/vbnet/obj/Debug/net8.0/VBNetApp.genruntimeconfig.cache
+/Users/sammbavu/source/repos/vbnet/obj/Debug/net8.0/ref/VBNetApp.dll
